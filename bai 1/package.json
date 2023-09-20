@@ -21,10 +21,7 @@
   ],
   "author": "hoatq",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/uthoa1702/nodejs_learning/issues"
-  },
-  "homepage": "https://github.com/uthoa1702/nodejs_learning#readme",
+
   "dependencies": {
     "express": "^4.18.2",
     "express-handlebars": "^7.1.2"
